@@ -1,0 +1,32 @@
+body{
+  background-color: white;
+  max-width: 80%;
+  max-height: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+p{
+
+  font-family: 'Times', Serif;
+  font-size: 20px;
+  color:black;
+
+}
+
+
+ <style>
+
+
+#text{
+
+ max-width: 80%;
+ max-height: 80%;
+ padding-left: 15%;
+ padding-right: 15%;
+ position: center;
+ position: absolute;
+
+}
+
+</style>
